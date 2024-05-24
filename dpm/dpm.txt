@@ -6,6 +6,7 @@
 # Dynamic Panel Models Fit with Maximum Likelihood Use dpm (In) With R Software
 install.packages("dpm")
 install.packages("jtools")
+install.packages("minqa")
 library("dpm")
 dpm = read.csv("https://raw.githubusercontent.com/timbulwidodostp/dpm/main/dpm/dpm.csv",sep = ";")
 # Estimate Dynamic Panel Data Models using Maximum Likelihood Use dpm (In) With R Software
