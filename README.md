@@ -5,6 +5,8 @@ fitting dynamic panel models with maximum likelihood Use dpm (In) With R Softwar
 
 Dynamic Panel Models Fit with Maximum Likelihood Use dpm (In) With R Software
 
+https://www.youtube.com/watch?v=m8cPD7OnD9s
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
